@@ -23,6 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+* Display all games from file
+* Filter games by funding goal reached
+* Add Stats
+* Add dynamic description from games list
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -34,11 +39,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+* It is possible stats container properties should be given to stats card instead for better visuals on hover and resize
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
