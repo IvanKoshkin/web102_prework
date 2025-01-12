@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 * Add Stats
 * Add dynamic description from games list
 
-<img src='https://imgur.com/JrNSIdh' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
